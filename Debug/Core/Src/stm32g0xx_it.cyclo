@@ -1,0 +1,8 @@
+../Core/Src/stm32g0xx_it.c:81:6:NMI_Handler	1
+../Core/Src/stm32g0xx_it.c:96:6:HardFault_Handler	1
+../Core/Src/stm32g0xx_it.c:118:6:TIM6_IRQHandler	1
+../Core/Src/stm32g0xx_it.c:132:6:USART2_IRQHandler	1
+../Core/Src/stm32g0xx_it.c:147:6:HAL_UART_RxCpltCallback	3
+../Core/Src/stm32g0xx_it.c:159:6:HAL_UART_TxCpltCallback	3
+../Core/Src/stm32g0xx_it.c:170:6:HAL_UART_ErrorCallback	2
+../Core/Src/stm32g0xx_it.c:179:6:HAL_GPIO_EXTI_Falling_Callback	4

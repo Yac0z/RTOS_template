@@ -1,0 +1,17 @@
+../Core/Src/main.c:137:5:main	10
+../Core/Src/main.c:237:6:SystemClock_Config	3
+../Core/Src/main.c:283:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:331:13:MX_GPIO_Init	1
+../Core/Src/main.c:356:6:uart_printf	5
+../Core/Src/main.c:379:13:stats_inc	2
+../Core/Src/main.c:401:12:cmd_help	2
+../Core/Src/main.c:409:12:cmd_led	9
+../Core/Src/main.c:438:12:cmd_job	6
+../Core/Src/main.c:450:12:cmd_status	1
+../Core/Src/main.c:471:13:Cmd_Process	9
+../Core/Src/main.c:499:6:StartCmdTask	9
+../Core/Src/main.c:533:6:StartLedTask	6
+../Core/Src/main.c:557:6:StartWorkerTask	1
+../Core/Src/main.c:585:6:StartDefaultTask	1
+../Core/Src/main.c:604:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:622:6:Error_Handler	1

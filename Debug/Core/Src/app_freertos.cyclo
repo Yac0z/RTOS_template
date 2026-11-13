@@ -1,0 +1,2 @@
+../Core/Src/app_freertos.c:57:6:vApplicationStackOverflowHook	2
+../Core/Src/app_freertos.c:65:6:vApplicationMallocFailedHook	2
